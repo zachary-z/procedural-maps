@@ -10,10 +10,10 @@ Once the Voronoi diagram is set up, each cell (or land) is designated as either 
 
 Here are some screenshots of the Voronoi tilings and Delaunay triangulations:
 
-![](https://github.com/zachary-z/3d-rendering/blob/master/centroidvoronoi.png)
+![](https://github.com/zachary-z/procedural-maps/blob/master/centroidvoronoi.png)
 
-![](https://github.com/zachary-z/3d-rendering/blob/master/originalvoronoi.png)
+![](https://github.com/zachary-z/procedural-maps/blob/master/originalvoronoi.png)
 
 and a tiling with corrected points
 
-![](https://github.com/zachary-z/3d-rendering/blob/master/fixedpointvoronoi.png)
+![](https://github.com/zachary-z/procedural-maps/blob/master/fixedpointvoronoi.png)
